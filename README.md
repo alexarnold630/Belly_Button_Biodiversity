@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-## https://alexarnold630.github.io/SMU_Homework//15-Interactive-Visualizations-and-Dashboards/Submission/Code/index.html
+## https://alexarnold630.github.io/Belly_Button_Biodiversity/Code/index.html
 
 ## Background
 Build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
@@ -20,8 +20,11 @@ Build an interactive dashboard to explore the Belly Button Biodiversity dataset,
 
 ![Dashboard](Images/dashboard.png)
 
-### About the Data
+### Data
 Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+
+### Contact
+Alex Arnold: alexnarnold630@gmail.com <br>
 
 
 
